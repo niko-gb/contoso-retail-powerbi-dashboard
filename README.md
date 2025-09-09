@@ -36,12 +36,21 @@ This project develops a comprehensive Business Intelligence (BI) solution for an
 ## Dashboard Features
 
 - Sales Performance Over Time: Monthly trends with returns analysis
+![Sales Performance Over Time](images/dashboard_1_sales_performance_time.png)
 - Customer Segmentation: Demographic-based performance tracking
-- Product Profitability: Top performers vs. high-return products
-- Geographic Analysis: Regional sales distribution and market share
+![Customer Segmentation](images/dashboard_2_sales_performance_customer.png)
+- Customer Data: Demographics information
+![Customer Data](images/dashboard_3_customer_info.png)
+- Returns & Profitability: Top performers vs. high-return products
+![Returns & Profitability](images/dashboard_4_returns_profit.png)
+- Expenses & Profitability: Annual Expenses 
+![Expenses & Profitability](images/dashboard_5_expenses_profit.png)
 - Expense Management: Departmental cost tracking and profitability
-- Predictive Analytics: Future sales forecasting with growth projections
+![Expense Management](images/dashboard_6_departments.png)
+- Predictive Analytics: Future sales forecasting
+![Predictive Analytics](images/dashboard_7_predictive.png)
 - KPI Overview: Comprehensive business metrics dashboard
+![Sales Performance Over Time](images/dashboard_8_performance_overview.png)
 
 ## Key Insights
 
